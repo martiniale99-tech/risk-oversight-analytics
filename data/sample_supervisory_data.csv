@@ -1,0 +1,6 @@
+entity_id,entity_type,country,rating,inspection_type,status,planned_start,planned_end,priority_score
+1001,Bank,Italy,A,OSI,Planned,2026-01-15,2026-02-15,85
+1002,Bank,Germany,BBB,IMI,In progress,2026-02-01,2026-03-01,78
+1003,Bank,France,BB,OSI,Completed,2026-03-10,2026-04-10,92
+1004,Bank,Spain,A,IMI,Planned,2026-04-05,2026-05-05,70
+1005,Bank,Netherlands,BBB,OSI,In progress,2026-05-12,2026-06-12,88
